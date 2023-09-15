@@ -13,8 +13,20 @@ public class EjercicioWhile01 {
                 System.out.println("contador = " + contador);
                 contador++;
             } while (contador <= 7);
-             for(var contando = 0; contando < 7; contando++){
+            // Uso de las palabras break y continue junto a las etiquetas (Labels)
+             inicio:
+             for(var contando = 0; contando < 7; contando++) {
+                if (contando % 2 == 0)
                  System. out.println("contando = " + contando);
-             }
+                 break inicio;
+                }
+                
+             for(var contando = 0; contando < 7; contando++){
+                if (contando % 2 != 0){
+                        continue; //vamos a l asiguiente iteracion
+                
+                }
+             System.out.println("contando = " + contando);
+    }
 }
 }
