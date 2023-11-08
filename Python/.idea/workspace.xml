@@ -2,29 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0b8a786f-0106-4409-bb4c-46293b3a637f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Java/Leccion2/CicloWhile/target/classes/EjercicioWhile01.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Java/Leccion2/CicloWhile/target/classes/com/mycompany/ciclowhile/CicloWhile.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Java/Leccion2/CicloWhile/target/classes/string.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Java/Leccion2/CicloWhile/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Java/Leccion2/CicloWhile/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/Python.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Clase 1 Python/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Clase 2 Python/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Clase 3 Python/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Clase 4 Python/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Clase 5 Python/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Clase 7 Python/Ejercicio Funciones 2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Clase 7 Python/Ejercicio Funciones 3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Clase 7 Python/Ejercicio Funciones 4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Clase 7 Python/Ejercicio Funciones 5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Tecnicatura2023" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
